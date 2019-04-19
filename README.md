@@ -15,5 +15,6 @@ Created function with python beautiful soup and splinter for web scraping
 ## Example:
 
 ![Jupyter Notebook File](https://github.com/hollybergen/Web-Scraper/blob/master/example.ipynb)
+
 ![](https://github.com/hollybergen/Web-Scraper/blob/master/soup.JPG)
 
